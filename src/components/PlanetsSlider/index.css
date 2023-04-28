@@ -1,0 +1,17 @@
+.bg-container {
+  height: 100vh;
+  font-weight: bold;
+  padding: 40px;
+  font-family: 'Roboto';
+  text-align: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png ');
+  background-size: cover;
+}
+h1 {
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #05acff;
+}
+.slick-dots {
+  color: white;
+}

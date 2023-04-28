@@ -1,0 +1,21 @@
+.img {
+  width: 200px;
+  height: 200px;
+}
+.image-container {
+  text-align: 'center';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+h3 {
+  color: #f8fafc;
+  font-weight: 900;
+  font-family: 'Roboto';
+}
+p {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #f1f5f9;
+}
